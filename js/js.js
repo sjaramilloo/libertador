@@ -6,3 +6,4 @@ function Cambiarimg1(){
     let img1 = img.getElementById('producto')
 }
 
+

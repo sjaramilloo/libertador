@@ -47,3 +47,12 @@
     justify-content: center;
 }
 
+.list_form{
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 10px;    
+}
+
+.text_box{
+    border-radius: 3px;
+}
